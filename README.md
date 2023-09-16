@@ -10,3 +10,7 @@
 - For this assignment you are being asked to apply the Bayesian classifier to correctly access if the product (bank term deposit) would be ('yes') or not ('no') subscribed. A term deposit based on a set of 5 features.
 
 - The class label is y - has the client subscribed a term deposit? (binary: 'yes', 'no')
+
+## Requirements:
+- The interface should enable user to select the percentage of the data needed to be read from the input file e.g. if the file contains 100 records, and the user needs to read 70% of the file then the classification should be done on 70 records only.
+- Apply the Bayesian classifier, to build classifier model from the first set “Training set”.
